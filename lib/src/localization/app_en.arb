@@ -1,0 +1,6 @@
+{
+  "appTitle": "home_food_delivery",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
